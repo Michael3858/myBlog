@@ -41,9 +41,9 @@ params:
 
   # 你的網頁標題旁邊的圖標 ( 修改 )
   assets:
-    favicon: "/example.png"
-    favicon16x16: "/example.png"
-    favicon32x32: "/example.png"
+    favicon: "/dog.jpg"
+    favicon16x16: "/dog.jpg"
+    favicon32x32: "/dog.jpg"
 
   cover:
     hidden: true
@@ -57,7 +57,7 @@ languages:
     locale: zh-TW
     contentDir: content/zh-tw
     weight: 1
-    title: ExampleSite # 你的網頁標題 [ og:site_name / 首頁 og:title ] ( 修改 )
+    title: 林麥可的Blog # 你的網頁標題 [ og:site_name / 首頁 og:title ] ( 修改 )
     params:
       description: "ExampleSite description" # 敘述 [ og:description ] ( 修改 )
       keywords: [部落格, 筆記] # 關鍵字 ( 修改 )
@@ -65,7 +65,7 @@ languages:
       DateFormat: "2006 年 1 月 2 日"
       label:
         text: "Home" # LOGO 文字 ( 修改 )
-        icon: /example.png # Logo 圖片 ( 修改 )
+        icon: /dog.jpg # Logo 圖片 ( 修改 )
         iconHeight: 35
       # 首頁自我介紹 ( 修改 )
       homeInfoParams:
@@ -98,7 +98,7 @@ languages:
       DateFormat: "January 2, 2006"
       label:
         text: "Home" # ( 修改 )
-        icon: /example.png
+        icon: /dog.jpg
         iconHeight: 35
       # 英文版首頁自我介紹 ( 修改 )
       homeInfoParams:
