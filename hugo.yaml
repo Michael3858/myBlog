@@ -61,8 +61,8 @@ languages:
     params:
       description: "ExampleSite description" # 敘述 [ og:description ] ( 修改 )
       keywords: [部落格, 筆記] # 關鍵字 ( 修改 )
-      author: Me # 作者名稱 ( 修改 )
-      DateFormat: "2006 年 1 月 2 日"
+      author: 林麥可 # 作者名稱 ( 修改 )
+      DateFormat: "2002 年 1 月 12 日"
       label:
         text: "Home" # LOGO 文字 ( 修改 )
         icon: /dog.jpg # Logo 圖片 ( 修改 )
@@ -77,7 +77,7 @@ languages:
       # 首頁下方的社群圖示 ( 修改 )
       socialIcons:
         - name: instagram
-          url: "https://www.instagram.com/"
+          url: "https://www.instagram.com/michael_lin_0112/"
     menu:
       main:
         - identifier: posts
@@ -94,7 +94,7 @@ languages:
     params:
       description: "ExampleSite description" # [ og:description ] ( 修改 )
       keywords: [Blog, Notes] # ( 修改 )
-      author: Me # ( 修改 )
+      author: Michael Lin # ( 修改 )
       DateFormat: "January 2, 2006"
       label:
         text: "Home" # ( 修改 )
@@ -109,7 +109,7 @@ languages:
           Second paragraph of your introduction
       socialIcons:
         - name: instagram
-          url: "https://www.instagram.com/"
+          url: "https://www.instagram.com/michael_lin_0112/"
     menu:
       main:
         - identifier: posts
