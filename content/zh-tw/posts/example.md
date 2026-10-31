@@ -2,7 +2,7 @@
 title: "好想出國"
 date: 2026-10-31T00:00:00+08:00
 draft: false  # true = 草稿，不會出現在網站上；要發布請改成 false
-tags: [範例]
+tags: [日本]
 ShowToc: true
 ---
 
