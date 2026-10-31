@@ -62,7 +62,7 @@ languages:
       description: "ExampleSite description" # 敘述 [ og:description ] ( 修改 )
       keywords: [部落格, 筆記] # 關鍵字 ( 修改 )
       author: 林麥可 # 作者名稱 ( 修改 )
-      DateFormat: "2002 年 1 月 12 日"
+      DateFormat: "2006 年 1 月 2 日"
       label:
         text: "Home" # LOGO 文字 ( 修改 )
         icon: /dog.jpg # Logo 圖片 ( 修改 )
